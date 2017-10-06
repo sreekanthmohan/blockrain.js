@@ -1,0 +1,23 @@
+The Customer would like to have following Features in the Tertis Game. 
+They don’t exist in the Blockrain.js so we need to find a new Template which support these new Features.
+
+1. There need to be Levels, in which the Game gets faster, the higher the levels are, the faster the Block run down the page.
+2. Needs to support the functions of the Buttons in the Design. Crosshair (to change direction) and enter Button (To change the block position)
+3. Needs to have the Next: Block displayed on the right.
+ 
+The Game need to open in a Pop-up, so that it can be looked at the full width of the device. (PAWECO_Mobiel_view_2_Fullscreen.jpg )
+Otherwise the buttons of the Gameboy cannot be pressed, because they are to small, like in this example (PAWECO_Mobiel_view_1_Normal_view.jpg) 
+
+For Desktop or Tablet it can be the normal view, so that the Gameboy is centered.
+ 
+The Game for our Customer should have all the functions of the original Tetris Game. You can play the game here, to see what I mean: https://tetris.com/play-tetris
+Here you can see how the original Gameboy Tetris looked like: http://90kids.com/game-boy-tetris/
+ 
+Please find a similar Template to this game, so we can use the PSD Design with that Crosshair and enter Button.
+ 
+Since we need to find a new Template to work with (Since Blockrain.js does not have these Features) the Customer would move the Deadline back, from the 18.10 to the 25.11.
+Do you think this timing is Possible? Please confirm so I can replay to the Customer ASAP.
+
+Do you need to have the size Pixel for the desktop/tablet/mobile version, or can you calculate this according to the PSD I sent you? The PSD File is 1000 x 3219 Pixels.
+
+We have identified http://aerolab.github.io/blockrain.js/ for this.  
